@@ -1,0 +1,1 @@
+# Resgistro_Equipamento_server
